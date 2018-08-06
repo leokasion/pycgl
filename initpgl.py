@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# pygame + PyOpenGL version of Nehe's OpenGL lesson06
-# Paul Furber 2001 - m@verick.co.za
+# pygame + PyOpenGL
 
 import os
 from OpenGL.GL import *
